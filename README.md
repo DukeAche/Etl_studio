@@ -46,6 +46,20 @@ A powerful, user-friendly ETL (Extract, Transform, Load) application built with 
 - **Quality Metrics**: Final data quality assessment
 - **Transaction Log Export**: Complete audit trail
 
+## 📸 Screenshots
+
+### SQL Workbench - Query Your Data
+![SQL Workbench Interface](/home/dukeray66/.gemini/antigravity/brain/f856fd23-c9b3-4c29-ba8e-e60a449ee3c6/sql_workbench.png)
+
+### Data Ingestion Phase
+![Data Ingestion Interface](/home/dukeray66/.gemini/antigravity/brain/f856fd23-c9b3-4c29-ba8e-e60a449ee3c6/data_ingestion.png)
+
+### Data Transformation & Cleaning
+![Data Transformation Interface](/home/dukeray66/.gemini/antigravity/brain/f856fd23-c9b3-4c29-ba8e-e60a449ee3c6/data_transformation.png)
+
+### Data Export
+![Data Export Interface](/home/dukeray66/.gemini/antigravity/brain/f856fd23-c9b3-4c29-ba8e-e60a449ee3c6/data_export.png)
+
 ## 🚀 Quick Start
 
 ### Installation
