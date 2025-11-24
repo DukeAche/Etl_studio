@@ -49,7 +49,7 @@ A powerful, user-friendly ETL (Extract, Transform, Load) application built with 
 ## 📸 Screenshots
 
 ### SQL Workbench - Query Your Data
-![SQL Workbench Interface](/home/dukeray66/.gemini/antigravity/brain/f856fd23-c9b3-4c29-ba8e-e60a449ee3c6/sql_workbench.png)
+![SQL Workbench Interface](https://github.com/DukeAche/Etl_studio/blob/main/Screenshot%202025-11-24%209.19.07%20PM.png)
 
 ### Data Ingestion Phase
 ![Data Ingestion Interface](/home/dukeray66/.gemini/antigravity/brain/f856fd23-c9b3-4c29-ba8e-e60a449ee3c6/data_ingestion.png)
