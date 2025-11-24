@@ -52,13 +52,13 @@ A powerful, user-friendly ETL (Extract, Transform, Load) application built with 
 ![SQL Workbench Interface](https://github.com/DukeAche/Etl_studio/blob/main/Screenshot%202025-11-24%209.19.07%20PM.png)
 
 ### Data Ingestion Phase
-![Data Ingestion Interface](/home/dukeray66/.gemini/antigravity/brain/f856fd23-c9b3-4c29-ba8e-e60a449ee3c6/data_ingestion.png)
+![Data Ingestion Interface](https://github.com/DukeAche/Etl_studio/blob/main/Screenshot%202025-11-24%209.19.07%20PM.png)
 
 ### Data Transformation & Cleaning
-![Data Transformation Interface](/home/dukeray66/.gemini/antigravity/brain/f856fd23-c9b3-4c29-ba8e-e60a449ee3c6/data_transformation.png)
+![Data Transformation Interface](https://github.com/DukeAche/Etl_studio/blob/main/Screenshot 2025-11-24 9.19.45 PM.png)
 
 ### Data Export
-![Data Export Interface](/home/dukeray66/.gemini/antigravity/brain/f856fd23-c9b3-4c29-ba8e-e60a449ee3c6/data_export.png)
+![Data Export Interface](https://github.com/DukeAche/Etl_studio/blob/main/Screenshot 2025-11-24 9.19.55 PM.png)
 
 ## 🚀 Quick Start
 
