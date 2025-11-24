@@ -55,7 +55,7 @@ A powerful, user-friendly ETL (Extract, Transform, Load) application built with 
 ![Data Ingestion Interface](https://github.com/DukeAche/Etl_studio/blob/main/Screenshot%202025-11-24%209.19.07%20PM.png)
 
 ### Data Transformation & Cleaning
-![Data Transformation Interface](https://github.com/DukeAche/Etl_studio/blob/main/Screenshot 2025-11-24 9.19.45 PM.png)
+![Data Transformation Interface](https://github.com/DukeAche/Etl_studio/blob/main/Screenshot%2025-11-24 9.19.45%PM.png)
 
 ### Data Export
 ![Data Export Interface](https://github.com/DukeAche/Etl_studio/blob/main/Screenshot 2025-11-24 9.19.55 PM.png)
